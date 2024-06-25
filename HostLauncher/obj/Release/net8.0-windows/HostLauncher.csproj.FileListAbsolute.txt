@@ -1,0 +1,16 @@
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\bin\Release\net8.0-windows\HostLauncher.exe
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\bin\Release\net8.0-windows\HostLauncher.deps.json
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\bin\Release\net8.0-windows\HostLauncher.runtimeconfig.json
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\bin\Release\net8.0-windows\HostLauncher.dll
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\bin\Release\net8.0-windows\HostLauncher.pdb
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.HostLauncher.resources
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.csproj.GenerateResource.cache
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.AssemblyInfoInputs.cache
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.AssemblyInfo.cs
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.dll
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\refint\HostLauncher.dll
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.pdb
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\HostLauncher.genruntimeconfig.cache
+C:\Users\Alfi\OneDrive\Documents\project\HostLauncher\HostLauncher\obj\Release\net8.0-windows\ref\HostLauncher.dll
